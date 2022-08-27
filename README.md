@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geekyarjun
-- 👀 I’m interested in learning Javascript and front-end technologies. I worked on MERN Stack.
-- 🌱 I’m currently learning Web Accessibility 
+- 👀 I’m interested in learning Javascript and front-end technologies. I am working on MERN Stack.
+- 🌱 I’m currently learning Web Accessibility and M.F 
 - 📫 You can reach me at geekyarjunshrivastava@gmail.com
 
 <!---
