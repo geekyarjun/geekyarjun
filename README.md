@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geekyarjun
-- 👀 I’m interested in learning Javascript and front-end technologies. I am working on MERN Stack.
-- 🌱 I’m currently learning Web Accessibility and M.F 
+- 👀 I’m an enthusiast for front-end technologies. Currently working on ReactJS, NextJS, Tailwind etc.
+- 🌱 Striving for good UI/UX along with accessibility of the application 
 - 📫 You can reach me at geekyarjunshrivastava@gmail.com
 
 <!---
